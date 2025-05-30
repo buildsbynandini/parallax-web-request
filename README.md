@@ -1,4 +1,4 @@
-# 🌐 The Life of a Request – Parallax Scrolling Web Page
+# 🌐 Parallax Request Journey
 
 A visually engaging web project that illustrates how a browser processes a user's URL request, from typing the address to rendering the webpage. This project uses **parallax scrolling** effects to enhance the storytelling experience and make learning technical concepts more interactive.
 
@@ -20,7 +20,7 @@ To demonstrate the lifecycle of a web request using simple HTML and CSS, along w
 
 ---
 
-- ## 🛠️ Built With
+ ## 🛠️ Built With
 
 - HTML5
 - CSS3
